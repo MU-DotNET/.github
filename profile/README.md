@@ -45,17 +45,6 @@ This space will keep evolving as I continue to learn and grow. Feel free to expl
 
 ---
 
-## 🎓 Contributing Channels & Instructors
-
-In this section, I will mention the channels and instructors that have contributed to my learning journey in .NET and software development.
-
-- # Gençay Yıldız
-  - [Youtube](https://www.youtube.com/c/Gen%C3%A7ayY%C4%B1ld%C4%B1z)
-  - [Github](https://github.com/gncyyldz)
-  - [Blog](https://www.gencayyildiz.com/blog/)
- 
----
-
 > _This repository is an evolving collection of my learning journey. New notes, experiments, and practical implementations will be added regularly._
 
 <p align="center">
