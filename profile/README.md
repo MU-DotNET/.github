@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-5%2F6%2F7-blue?logo=dotnet" alt=".NET Versions"/>
+  <img src="https://img.shields.io/badge/.NET-5%2F6%2F7%2F8%2F9-blue?logo=dotnet" alt=".NET Versions"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Project Status"/>
   <img src="https://img.shields.io/github/followers/musauyumaz?style=social" alt="GitHub Followers"/>
 </p>
